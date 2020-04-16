@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23758C</color>
+    <color name="colorPrimaryDark">#005E79</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="back">#37B8DD</color>
+    <color name="backbut">#93D1E4</color>
+    <color name="backel">#F0C18D</color>
+</resources>
